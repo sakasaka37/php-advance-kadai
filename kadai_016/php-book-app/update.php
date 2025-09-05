@@ -127,12 +127,12 @@ if (isset($_GET['id'])) {
                         ?>
                     </select>
                 </div>
-                <button type="submit" class="submit-btn" name="submit" value="create">登録</button>
+                <button type="submit" class="submit-btn" name="submit" value="create">更新</button>
             </form>
         </article>
     </main>
     <footer>
-        <p class="copyright">&copy; 書籍管理アプリ All right reserved.</p>
+        <p class="copyright">&copy; 書籍管理アプリ All rights reserved.</p>
     </footer>
 </body>
 

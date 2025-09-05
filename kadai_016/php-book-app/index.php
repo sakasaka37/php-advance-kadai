@@ -22,12 +22,12 @@
     <main>
         <article class="home">
             <h1>書籍管理アプリ</h1>
-            <p>『PHPとデータベースを連結しよう』成果物</p>
+            <p>『PHPとデータベースを連携しよう』成果物</p>
             <a href="read.php" class="btn">書籍一覧</a>
         </article>
     </main>
     <footer>
-        <p class="copyright">&copy; 書籍管理アプリ All right reserved.</p>
+        <p class="copyright">&copy; 書籍管理アプリ All rights reserved.</p>
     </footer>
 </body>
 

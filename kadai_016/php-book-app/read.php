@@ -74,7 +74,7 @@ try {
                         <img src="images/asc.png" alt="昇順に並び替え" class="sort-img">
                     </a>
                     <form action="read.php" method="get" class="search-form">
-                        <input type="hidden" name="oeder" value="<?= $order ?>">
+                        <input type="hidden" name="order" value="<?= $order ?>">
                         <input type="text" class="search-box" placeholder="書籍名で検索" name="keyword" value="<?= $keyword ?>">
                     </form>
                 </div>
@@ -111,7 +111,7 @@ try {
         </article>
     </main>
     <footer>
-        <p class="copyright">&copy; 書籍管理アプリ All right reserved.</p>
+        <p class="copyright">&copy; 書籍管理アプリ All rights reserved.</p>
     </footer>
 </body>
 
